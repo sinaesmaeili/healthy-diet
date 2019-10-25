@@ -1,0 +1,31 @@
+{
+  "name": "healthy-diet",
+  "version": "1.0.0",
+  "description": "Carleton PSYC2301 Assignment",
+  "main": "src/index.js",
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "node-sass": "^4.13.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinaesmaeili/healthy-diet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinaesmaeili/healthy-diet/issues"
+  },
+  "homepage": "https://github.com/sinaesmaeili/healthy-diet#readme"
+}
